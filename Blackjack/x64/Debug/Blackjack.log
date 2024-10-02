@@ -1,0 +1,24 @@
+﻿  game.cpp
+C:\Users\dimko\OneDrive\Documents\OPA\2021-2022\C++\Blackjack\Blackjack\Blackjack\game.cpp(59,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\dimko\OneDrive\Documents\OPA\2021-2022\C++\Blackjack\Blackjack\Blackjack\game.cpp(272,30): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\dimko\OneDrive\Documents\OPA\2021-2022\C++\Blackjack\Blackjack\Blackjack\game.cpp(337,50): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\dimko\OneDrive\Documents\OPA\2021-2022\C++\Blackjack\Blackjack\Blackjack\game.cpp(385,29): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\dimko\OneDrive\Documents\OPA\2021-2022\C++\Blackjack\Blackjack\Blackjack\game.cpp(475,85): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\dimko\OneDrive\Documents\OPA\2021-2022\C++\Blackjack\Blackjack\Blackjack\game.cpp(491,42): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\dimko\OneDrive\Documents\OPA\2021-2022\C++\Blackjack\Blackjack\Blackjack\game.cpp(492,42): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\dimko\OneDrive\Documents\OPA\2021-2022\C++\Blackjack\Blackjack\Blackjack\game.cpp(589,42): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\dimko\OneDrive\Documents\OPA\2021-2022\C++\Blackjack\Blackjack\Blackjack\game.cpp(590,42): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\dimko\OneDrive\Documents\OPA\2021-2022\C++\Blackjack\Blackjack\Blackjack\game.cpp(602,12): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\dimko\OneDrive\Documents\OPA\2021-2022\C++\Blackjack\Blackjack\Blackjack\game.cpp(696,27): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\dimko\OneDrive\Documents\OPA\2021-2022\C++\Blackjack\Blackjack\Blackjack\game.cpp(700,28): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\dimko\OneDrive\Documents\OPA\2021-2022\C++\Blackjack\Blackjack\Blackjack\game.cpp(706,27): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\dimko\OneDrive\Documents\OPA\2021-2022\C++\Blackjack\Blackjack\Blackjack\game.cpp(710,28): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\dimko\OneDrive\Documents\OPA\2021-2022\C++\Blackjack\Blackjack\Blackjack\game.cpp(731,42): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\dimko\OneDrive\Documents\OPA\2021-2022\C++\Blackjack\Blackjack\Blackjack\game.cpp(732,42): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\dimko\OneDrive\Documents\OPA\2021-2022\C++\Blackjack\Blackjack\Blackjack\game.cpp(753,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  
+Blackjack.rc(53): error RC2135: file not found: C:\Users\Sgta5\Desktop\BlackJack Project\C++ Project\Blackjack\bin\icons\icon2.png
+  
+  
+Blackjack.rc(63): error RC2135: file not found: C:\Users\Sgta5\Desktop\BlackJack Project\C++ Project\Blackjack\bin\icons\icon2.ico
+  
